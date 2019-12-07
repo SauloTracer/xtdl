@@ -1,0 +1,24 @@
+{
+  "name": "todo-api",
+  "version": "1.0.0",
+  "description": "API XTDL",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SauloTracer/xtdl.git"
+  },
+  "keywords": [
+    "ToDo",
+    "List",
+    "XTDL"
+  ],
+  "author": "saulo.tracer@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SauloTracer/xtdl/issues"
+  },
+  "homepage": "https://github.com/SauloTracer/xtdl#readme"
+}
